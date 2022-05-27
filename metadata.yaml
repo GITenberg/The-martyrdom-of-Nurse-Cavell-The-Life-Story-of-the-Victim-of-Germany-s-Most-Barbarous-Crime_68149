@@ -1,11 +1,16 @@
 _repo: The-martyrdom-of-Nurse-Cavell-The-Life-Story-of-the-Victim-of-Germany-s-Most-Barbarous-Crime_68149
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68149-h/images/cover.jpg
 creator:
   author:
     agent_name: Hill, William Thomson
     gutenberg_agent_id: '54630'
     url: http://www.gutenberg.org/2009/agents/54630
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68149#The-martyrdom-of-Nurse-Cavell-The-Life-Story-of-the-Victim-of-Germany-s-Most-Barbarous-Crime
 gutenberg_issued: '2022-05-22'
 identifiers:
   gutenberg: '68149'
